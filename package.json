@@ -1,0 +1,19 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "puppeteer": "^23.2.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "user-agents": "^1.1.317"
+  }
+}
